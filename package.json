@@ -1,16 +1,13 @@
 {
-  "name": "react-native-input-credit-card",
+  "name": "react-native-input-credit-card-v2",
   "version": "0.0.1",
-  "description": "React native credit card input component",
+  "description": "React native credit card input component with customizable card image",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "lint": "eslint --ext .js ."
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/yuritoledo/react-native-input-credit-card.git"
-  },
+  "repository": "https://github.com/silcar92/react-native-input-credit-card-v2.git",
   "keywords": [
     "react-native",
     "ios",
@@ -26,7 +23,7 @@
     "react-component",
     "react-native-component"
   ],
-  "author": "yuritoledo",
+  "author": "silcar92",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/yuritoledo/react-native-input-credit-card/issues"
